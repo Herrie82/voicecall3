@@ -5,7 +5,7 @@ QT = core dbus
 
 CONFIG += c++11
 
-#DEFINES += WANT_TRACE
+DEFINES += WANT_TRACE
 
 HEADERS += \
     common.h \
